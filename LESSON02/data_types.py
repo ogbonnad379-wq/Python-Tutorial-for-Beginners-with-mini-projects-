@@ -3,8 +3,13 @@ import math
 
 # literal assignment
 
-first = "Dave"
-last = "Gray"
+import math
+# String data type
+
+# literal assignment
+
+first = "Derek"
+last = "Zeller"
 
 # print(type(first))
 # print(type(first) == str)
